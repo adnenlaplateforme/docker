@@ -27,3 +27,24 @@
 # show list container in docker desktop
 
 ![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-desktop.png)
+
+# Acceder au container
+
+![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-exec.png)
+
+# Arreter container
+
+« docker stop id-container »
+
+# Supprimer container
+
+« docker rm id-container »
+
+# Supprimer image
+
+« docker image rm image-name »
+
+# Suppression de toutes les images/conteneurs/Réseaux/Caches de build/Volumes non utilisées
+
+« docker system prune -a »
+
