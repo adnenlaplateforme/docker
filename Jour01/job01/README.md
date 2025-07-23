@@ -23,3 +23,7 @@
 # docker desktop
 
 ![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-01.png)
+
+# show list container in docker desktop
+
+![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-desktop.png)
