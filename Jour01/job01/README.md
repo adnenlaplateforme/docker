@@ -7,3 +7,7 @@
 # run container
 
 ![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/run-container.png)
+
+# list images
+
+![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/list-images.png)
