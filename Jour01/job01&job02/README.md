@@ -28,10 +28,6 @@
 
 ![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-desktop.png)
 
-# Acceder au container
-
-![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-exec.png)
-
 # Arreter container
 
 « docker stop id-container »
@@ -48,3 +44,15 @@
 
 « docker system prune -a »
 
+# Acceder au container
+
+![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-exec.png)
+
+# install vim
+
+![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/install-vim.png)
+
+# set file App dans le container
+
+![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/set-file-App.js.:x
+png)
