@@ -28,10 +28,6 @@
 
 ![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/docker-desktop.png)
 
-# Arreter container
-
-« docker stop id-container »
-
 # Supprimer container
 
 « docker rm id-container »
@@ -56,3 +52,33 @@
 
 ![alt text](https://github.com/adnenlaplateforme/docker/blob/main/Jour01/job01/images/set-file-App.js.:x
 png)
+
+# stop container
+
+« docker stop [id/name container]»
+
+# start container
+
+« docker start [id/name container]»
+
+# docker hub connect
+
+« docker login »
+
+# docker tag
+
+« docker tag welcome-to-docker:1.0 adnensaid/welcome-to-docker:1.0 »
+
+# docker push
+
+« docker push adnensaid/welcome-to-docker:1.0 »
+
+# Recuperer image docker and run image
+
+« docker pull adnensaid/welcome-to-docker:1.0 »
+« docker ps »
+« docker run -d -p 8088:3000 adnensaid/welcome-to-docker:1.0 »
+
+# copier le projet dans le conteneur docker en local
+
+« docker cp id_container:/ . »
